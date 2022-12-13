@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "522828851975",
+    "project_id": "testntf-abd62",
+    "storage_bucket": "testntf-abd62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522828851975:android:dbb0318baf057175fa73a2",
+        "android_client_info": {
+          "package_name": "com.gajunadege.notifapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522828851975-d8v1evkj1m2ilhk84o8qhsmdv3d3qn6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gajunadege.notifapp",
+            "certificate_hash": "76666969bc7a35233cc938537979a54b34d534c6"
+          }
+        },
+        {
+          "client_id": "522828851975-em2d98mfs1ep6hh6anj5fl0hh1c64iqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gajunadege.notifapp",
+            "certificate_hash": "ccbcac98bffce91bf3b5cd62903f51af7155ad7b"
+          }
+        },
+        {
+          "client_id": "522828851975-0a8jnk1bf9305bglhb30o805nf8e8a6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxe9de6cjySXnke7IPEWMJxUkZTV7tC3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522828851975-0a8jnk1bf9305bglhb30o805nf8e8a6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
